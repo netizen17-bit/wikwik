@@ -14,7 +14,7 @@ echo $me" ║██  ❤️  ❤️  ❤️  ██   ██
 echo $me" ║██    ❤️  ❤️    ██   ██
 echo $me" ║██      ❤️      ███████
 echo $me" 
-slep"
+slep 0.5
 echo $pu"  ████  ███    █   █   █   █ 
 echo $pu"  ██  ██  ██  █ █   █ █   █ █
 echo $pu"  ██      ██  █❤️█   █║   █❤️█
