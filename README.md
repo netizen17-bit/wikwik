@@ -9,16 +9,16 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 
-echo $me"  ║██  ❤️❤️  ❤️❤️  ██   ██    
+echo $me"   ║██  ❤️❤️  ❤️❤️  ██   ██    
 echo $me"  ║██  ❤️  ❤️  ❤️  ██   ██
-echo $me"  ║██    ❤️  ❤️    ██   ██
+echo $me"   ║██    ❤️  ❤️    ██   ██
 echo $me"  ║██      ❤️      ███████
 echo $me" 
 slep 0.5
-echo $pu"  ████  ███    █   █   █   █ 
-echo $pu"  ██  ██  ██  █ █   █ █   █ █
-echo $pu"  ██      ██  █❤️█   █║   █❤️█
-echo $pu"  ██      ██  █  █   █║   █  █
+echo $pu"   ████  ███   █    █   █   █ 
+echo $pu"  ██  ██  ██  █  █   █ █   █ █
+echo $pu"   ██      ██  █❤️█   █║   █❤️█
+echo $pu"   ██      ██  █  █   █║   █  █
 echo $pu"
 echo ""
 echo ""
@@ -30,7 +30,7 @@ echo $i"————————————————————————
 echo $pur"              [•]DARI : IPAN ADITIA
 echo $ku"             [•]KEPADA : MAYA LESTARI
 echo $i"             [•] PESAN  : AKU SAYANG KAMU
-echo $me"      [•]ISI KANDUNGAN : AWOKAWOKAOWK ❤️
+echo $me"      [•]ISI KANDUNGAN : AKU AKAN CHEAT HATI KAMU WK
 echo $i"——————————————————————————————————————————————————————————"
 sleep 2
 echo ""
